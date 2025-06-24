@@ -13,9 +13,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mces58/Mern.git"
+    "url": "git://github.com/mc-es/Mern.git"
   },
-  "homepage": "https://github.com/mces58/Mern#readme",
+  "homepage": "https://github.com/mc-es/Mern#readme",
   "private": true,
   "devDependencies": {
     "@commitlint/cli": "^18.6.1",
